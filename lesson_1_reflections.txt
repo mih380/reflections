@@ -1,0 +1,40 @@
+FC in windows helps in comparing two files for their differences.
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+ It pin points the locationt at which the text was diffrent. This helps in 
+ spotting the bug
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+ Having entire history help keep track of features that were added and especially
+ any typos or bugs that were introduced in the makin of the program.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   Pros : It gives logical control to the user in the sense tthat the information that is entered is more useful
+
+   Cons : user has to manually remember to provide a commit instead of the machine doing it for you automatically.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Version control systems like git help in keeping track of changes accross multiple file in a project and therby helps in making logical commits related for a project. On the other hand the changes made to google docs is concerned with versioning of a single doc and not for a whole project
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log helps in listing all the commits that were made in a project and list all the commit id along with the comments that are associated with the commits that are made to the project
+
+    git diff helps in getting the difference in the older versions of the files with the newer commits that were made to find the bugs that were introduced in the current system
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    With version control you can always revert back to the last worling fiel which worked great for you.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to start using git for version control as I start with applying patches to my new project
